@@ -1,5 +1,0 @@
-AUDIO
-https://gamemaker.io/en/blog/track-street-racer
-
-GRAPHICS
-https://kenney.nl/assets/racing-kit

@@ -1,0 +1,20 @@
+AUDIO
+https://gamemaker.io/en/blog/track-street-racer
+
+GRAPHICS
+https://kenney.nl/assets/racing-kit
+
+CONTRIBUTIONS TO THE PROJECT
+NEO
+--> Drew sketches of the game, came up with the concept of the game (a bit similar to --> the game Trackmania).
+--> Did some player code, such as the car's driving mechanics.
+--> Placed some decoration objects to the level.
+--> Added code to the buttons to make them function.
+
+FINTAN
+--> Optimized some of the player code and added more (mainly in regards to the collisions, adding turbo and fixing bugs such as the audio).
+--> Worked fully on all of the other scripts.
+--> Placed the track's road layout, created the turbo powerup.
+--> Found the assets to use.
+--> Created the github and webgl of the game (both alpha and final).
+--> Coded the player laps and checkpoints functions.
